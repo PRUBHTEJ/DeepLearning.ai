@@ -16,4 +16,12 @@ The courses offered in this specialization are:-
 
 The Projects covered under **Course-1** are as follows:- 
 
-a)[Logistic Regression with a Neural Network mindset](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+a) [Logistic Regression with a Neural Network mindset](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+
+b) [Planar data classification with one hidden layer](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+
+c) [Building your Deep Neural Network Step by Step](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+
+d) [Deep Neural Network Application](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+
+
