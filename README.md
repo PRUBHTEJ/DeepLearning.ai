@@ -32,4 +32,6 @@ b) [Gradient Checking](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/C
 
 c) [Regularization](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Course-2/Week-1/Regularization_v2a.ipynb)
 
+d) [Optimization_Methods](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Course-2/Week-2/Optimization_methods_v1b.ipynb)
+
 
