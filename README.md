@@ -24,4 +24,12 @@ c) [Building your Deep Neural Network Step by Step](https://github.com/PRUBHTEJ/
 
 d) [Deep Neural Network Application](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
+The Projects covered under **Course-2** are as follows:-
+
+a) [Initialization](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Course-2/Week-1/Initialization.ipynb)
+
+b) [Gradient Checking](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Course-2/Week-1/Gradient%2BChecking%2Bv1.ipynb)
+
+c) [Regularization](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Course-2/Week-1/Regularization_v2a.ipynb)
+
 
