@@ -14,7 +14,7 @@ The courses offered in this specialization are:-
 
 5. Sequence Models
 
-The Projects covered under **Course-1** are as follows:- 
+### The Projects covered under **Course-1** are as follows:- 
 
 a) [Logistic Regression with a Neural Network mindset](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Course-1/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 
@@ -24,7 +24,7 @@ c) [Building your Deep Neural Network Step by Step](https://github.com/PRUBHTEJ/
 
 d) [Deep Neural Network Application](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Course-1/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
-The Projects covered under **Course-2** are as follows:-
+### The Projects covered under **Course-2** are as follows:-
 
 a) [Initialization](https://github.com/PRUBHTEJ/DeepLearning.ai/blob/master/Course-2/Week-1/Initialization.ipynb)
 
